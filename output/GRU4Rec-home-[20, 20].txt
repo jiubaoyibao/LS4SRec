@@ -1,0 +1,232 @@
+2023-02-27 21:14:32
+Namespace(adam_beta1=0.9, adam_beta2=0.999, attention_probs_dropout_prob=0.5, batch_size=1024, cuda_condition=True, data_dir='./datasets/home/', data_file='./datasets/home/home.txt', data_name='home', do_eval=False, epochs=200, fast_run=True, gnn_dropout_prob=0.5, gpu_id='0', hidden_act='gelu', hidden_dropout_prob=0.5, hidden_size=64, item_size=28238, lam1=1, lam2=0.1, log_file='output/GRU4Rec-home-[20, 20].txt', log_freq=1, lr=0.001, lr_dc=0.7, lr_dc_step=5, max_seq_length=50, model_name='GRU4Rec', no_cuda=False, num_attention_heads=2, num_hidden_layers=2, output_dir='output/', patience=10, sample_size=[20, 20], seed=2022, use_renorm=True, use_scale=False, user_size=66519, weight_decay=5e-05)
+2023-02-27 21:16:00
+Namespace(adam_beta1=0.9, adam_beta2=0.999, attention_probs_dropout_prob=0.5, batch_size=1024, cuda_condition=True, data_dir='./datasets/home/', data_file='./datasets/home/home.txt', data_name='home', do_eval=False, epochs=200, fast_run=True, gnn_dropout_prob=0.5, gpu_id='0', hidden_act='gelu', hidden_dropout_prob=0.5, hidden_size=64, item_size=28238, lam1=1, lam2=0.1, log_file='output/GRU4Rec-home-[20, 20].txt', log_freq=1, lr=0.001, lr_dc=0.7, lr_dc_step=5, max_seq_length=50, model_name='GRU4Rec', no_cuda=False, num_attention_heads=2, num_hidden_layers=2, output_dir='output/', patience=10, sample_size=[20, 20], seed=2022, use_renorm=True, use_scale=False, user_size=66519, weight_decay=5e-05)
+2023-02-27 21:17:26
+Namespace(adam_beta1=0.9, adam_beta2=0.999, attention_probs_dropout_prob=0.5, batch_size=1024, cuda_condition=True, data_dir='./datasets/home/', data_file='./datasets/home/home.txt', data_name='home', do_eval=False, epochs=200, fast_run=True, gnn_dropout_prob=0.5, gpu_id='0', hidden_act='gelu', hidden_dropout_prob=0.5, hidden_size=64, item_size=28238, lam1=1, lam2=0.1, log_file='output/GRU4Rec-home-[20, 20].txt', log_freq=1, lr=0.001, lr_dc=0.7, lr_dc_step=5, max_seq_length=50, model_name='GRU4Rec', no_cuda=False, num_attention_heads=2, num_hidden_layers=2, output_dir='output/', patience=10, sample_size=[20, 20], seed=2022, use_renorm=True, use_scale=False, user_size=66519, weight_decay=5e-05)
+2023-02-27 21:22:08
+Namespace(adam_beta1=0.9, adam_beta2=0.999, attention_probs_dropout_prob=0.5, batch_size=1024, cuda_condition=True, data_dir='./datasets/home/', data_file='./datasets/home/home.txt', data_name='home', do_eval=False, epochs=200, fast_run=True, gnn_dropout_prob=0.5, gpu_id='0', hidden_act='gelu', hidden_dropout_prob=0.5, hidden_size=64, item_size=28238, lam1=1, lam2=0.1, log_file='output/GRU4Rec-home-[20, 20].txt', log_freq=1, lr=0.001, lr_dc=0.7, lr_dc_step=5, max_seq_length=50, model_name='GRU4Rec', no_cuda=False, num_attention_heads=2, num_hidden_layers=2, output_dir='output/', patience=10, sample_size=[20, 20], seed=2022, use_renorm=True, use_scale=False, user_size=66519, weight_decay=5e-05)
+2023-02-27 21:23:14
+Namespace(adam_beta1=0.9, adam_beta2=0.999, attention_probs_dropout_prob=0.5, batch_size=1024, cuda_condition=True, data_dir='./datasets/home/', data_file='./datasets/home/home.txt', data_name='home', do_eval=False, epochs=200, fast_run=True, gnn_dropout_prob=0.5, gpu_id='0', hidden_act='gelu', hidden_dropout_prob=0.5, hidden_size=64, item_size=28238, lam1=1, lam2=0.1, log_file='output/GRU4Rec-home-[20, 20].txt', log_freq=1, lr=0.001, lr_dc=0.7, lr_dc_step=5, max_seq_length=50, model_name='GRU4Rec', no_cuda=False, num_attention_heads=2, num_hidden_layers=2, output_dir='output/', patience=10, sample_size=[20, 20], seed=2022, use_renorm=True, use_scale=False, user_size=66519, weight_decay=5e-05)
+2023-02-27 21:24:35
+Namespace(adam_beta1=0.9, adam_beta2=0.999, attention_probs_dropout_prob=0.5, batch_size=1024, cuda_condition=True, data_dir='./datasets/home/', data_file='./datasets/home/home.txt', data_name='home', do_eval=False, epochs=200, fast_run=True, gnn_dropout_prob=0.5, gpu_id='0', hidden_act='gelu', hidden_dropout_prob=0.5, hidden_size=64, item_size=28238, lam1=1, lam2=0.1, log_file='output/GRU4Rec-home-[20, 20].txt', log_freq=1, lr=0.001, lr_dc=0.7, lr_dc_step=5, max_seq_length=50, model_name='GRU4Rec', no_cuda=False, num_attention_heads=2, num_hidden_layers=2, output_dir='output/', patience=10, sample_size=[20, 20], seed=2022, use_renorm=True, use_scale=False, user_size=66519, weight_decay=5e-05)
+2023-02-27 21:25:58
+Namespace(adam_beta1=0.9, adam_beta2=0.999, attention_probs_dropout_prob=0.5, batch_size=1024, cuda_condition=True, data_dir='./datasets/home/', data_file='./datasets/home/home.txt', data_name='home', do_eval=False, epochs=200, fast_run=True, gnn_dropout_prob=0.5, gpu_id='0', hidden_act='gelu', hidden_dropout_prob=0.5, hidden_size=64, item_size=28238, lam1=1, lam2=0.1, log_file='output/GRU4Rec-home-[20, 20].txt', log_freq=1, lr=0.001, lr_dc=0.7, lr_dc_step=5, max_seq_length=50, model_name='GRU4Rec', no_cuda=False, num_attention_heads=2, num_hidden_layers=2, output_dir='output/', patience=10, sample_size=[20, 20], seed=2022, use_renorm=True, use_scale=False, user_size=66519, weight_decay=5e-05)
+2023-02-27 21:27:35
+Namespace(adam_beta1=0.9, adam_beta2=0.999, attention_probs_dropout_prob=0.5, batch_size=1024, cuda_condition=True, data_dir='./datasets/home/', data_file='./datasets/home/home.txt', data_name='home', do_eval=False, epochs=200, fast_run=True, gnn_dropout_prob=0.5, gpu_id='0', hidden_act='gelu', hidden_dropout_prob=0.5, hidden_size=64, item_size=28238, lam1=1, lam2=0.1, log_file='output/GRU4Rec-home-[20, 20].txt', log_freq=1, lr=0.001, lr_dc=0.7, lr_dc_step=5, max_seq_length=50, model_name='GRU4Rec', no_cuda=False, num_attention_heads=2, num_hidden_layers=2, output_dir='output/', patience=10, sample_size=[20, 20], seed=2022, use_renorm=True, use_scale=False, user_size=66519, weight_decay=5e-05)
+2023-02-27 21:29:30
+Namespace(adam_beta1=0.9, adam_beta2=0.999, attention_probs_dropout_prob=0.5, batch_size=1024, cuda_condition=True, data_dir='./datasets/home/', data_file='./datasets/home/home.txt', data_name='home', do_eval=False, epochs=200, fast_run=True, gnn_dropout_prob=0.5, gpu_id='0', hidden_act='gelu', hidden_dropout_prob=0.5, hidden_size=64, item_size=28238, lam1=1, lam2=0.1, log_file='output/GRU4Rec-home-[20, 20].txt', log_freq=1, lr=0.001, lr_dc=0.7, lr_dc_step=5, max_seq_length=50, model_name='GRU4Rec', no_cuda=False, num_attention_heads=2, num_hidden_layers=2, output_dir='output/', patience=10, sample_size=[20, 20], seed=2022, use_renorm=True, use_scale=False, user_size=66519, weight_decay=5e-05)
+2023-02-27 21:30:23
+Namespace(adam_beta1=0.9, adam_beta2=0.999, attention_probs_dropout_prob=0.5, batch_size=1024, cuda_condition=True, data_dir='./datasets/home/', data_file='./datasets/home/home.txt', data_name='home', do_eval=False, epochs=200, fast_run=True, gnn_dropout_prob=0.5, gpu_id='0', hidden_act='gelu', hidden_dropout_prob=0.5, hidden_size=64, item_size=28238, lam1=1, lam2=0.1, log_file='output/GRU4Rec-home-[20, 20].txt', log_freq=1, lr=0.001, lr_dc=0.7, lr_dc_step=5, max_seq_length=50, model_name='GRU4Rec', no_cuda=False, num_attention_heads=2, num_hidden_layers=2, output_dir='output/', patience=10, sample_size=[20, 20], seed=2022, use_renorm=True, use_scale=False, user_size=66519, weight_decay=5e-05)
+2023-02-27 21:33:18
+Namespace(adam_beta1=0.9, adam_beta2=0.999, attention_probs_dropout_prob=0.5, batch_size=1024, cuda_condition=True, data_dir='./datasets/home/', data_file='./datasets/home/home.txt', data_name='home', do_eval=False, epochs=200, fast_run=True, gnn_dropout_prob=0.5, gpu_id='0', hidden_act='gelu', hidden_dropout_prob=0.5, hidden_size=64, item_size=28238, lam1=1, lam2=0.1, log_file='output/GRU4Rec-home-[20, 20].txt', log_freq=1, lr=0.001, lr_dc=0.7, lr_dc_step=5, max_seq_length=50, model_name='GRU4Rec', no_cuda=False, num_attention_heads=2, num_hidden_layers=2, output_dir='output/', patience=10, sample_size=[20, 20], seed=2022, use_renorm=True, use_scale=False, user_size=66519, weight_decay=5e-05)
+2023-02-27 21:34:08
+Namespace(adam_beta1=0.9, adam_beta2=0.999, attention_probs_dropout_prob=0.5, batch_size=1024, cuda_condition=True, data_dir='./datasets/home/', data_file='./datasets/home/home.txt', data_name='home', do_eval=False, epochs=200, fast_run=True, gnn_dropout_prob=0.5, gpu_id='0', hidden_act='gelu', hidden_dropout_prob=0.5, hidden_size=64, item_size=28238, lam1=1, lam2=0.1, log_file='output/GRU4Rec-home-[20, 20].txt', log_freq=1, lr=0.001, lr_dc=0.7, lr_dc_step=5, max_seq_length=50, model_name='GRU4Rec', no_cuda=False, num_attention_heads=2, num_hidden_layers=2, output_dir='output/', patience=10, sample_size=[20, 20], seed=2022, use_renorm=True, use_scale=False, user_size=66519, weight_decay=5e-05)
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 0, 'joint_loss_avg': '10.6372', 'main_loss_avg': '10.6372', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+2023-02-27 21:36:00
+Namespace(adam_beta1=0.9, adam_beta2=0.999, attention_probs_dropout_prob=0.5, batch_size=1024, cuda_condition=True, data_dir='./datasets/home/', data_file='./datasets/home/home.txt', data_name='home', do_eval=False, epochs=200, fast_run=True, gnn_dropout_prob=0.5, gpu_id='0', hidden_act='gelu', hidden_dropout_prob=0.5, hidden_size=64, item_size=28238, lam1=1, lam2=0.1, log_file='output/GRU4Rec-home-[20, 20].txt', log_freq=1, lr=0.001, lr_dc=0.7, lr_dc_step=5, max_seq_length=50, model_name='GRU4Rec', no_cuda=False, num_attention_heads=2, num_hidden_layers=2, output_dir='output/', patience=10, sample_size=[20, 20], seed=2022, use_renorm=True, use_scale=False, user_size=66519, weight_decay=5e-05)
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 0, 'joint_loss_avg': '10.6372', 'main_loss_avg': '10.6372', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 0, 'HIT@5': '0.0008', 'NDCG@5': '0.0005', 'HIT@10': '0.0012', 'NDCG@10': '0.0006', 'HIT@20': '0.0022', 'NDCG@20': '0.0009'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 1, 'joint_loss_avg': '10.2256', 'main_loss_avg': '10.2256', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 1, 'HIT@5': '0.0040', 'NDCG@5': '0.0023', 'HIT@10': '0.0065', 'NDCG@10': '0.0031', 'HIT@20': '0.0100', 'NDCG@20': '0.0040'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 2, 'joint_loss_avg': '10.0650', 'main_loss_avg': '10.0650', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 2, 'HIT@5': '0.0051', 'NDCG@5': '0.0032', 'HIT@10': '0.0099', 'NDCG@10': '0.0048', 'HIT@20': '0.0162', 'NDCG@20': '0.0063'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 3, 'joint_loss_avg': '9.7798', 'main_loss_avg': '9.7798', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 3, 'HIT@5': '0.0052', 'NDCG@5': '0.0033', 'HIT@10': '0.0095', 'NDCG@10': '0.0047', 'HIT@20': '0.0174', 'NDCG@20': '0.0067'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 4, 'joint_loss_avg': '9.6755', 'main_loss_avg': '9.6755', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 4, 'HIT@5': '0.0056', 'NDCG@5': '0.0035', 'HIT@10': '0.0101', 'NDCG@10': '0.0050', 'HIT@20': '0.0175', 'NDCG@20': '0.0068'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 5, 'joint_loss_avg': '9.6399', 'main_loss_avg': '9.6399', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 5, 'HIT@5': '0.0058', 'NDCG@5': '0.0037', 'HIT@10': '0.0101', 'NDCG@10': '0.0051', 'HIT@20': '0.0177', 'NDCG@20': '0.0070'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 6, 'joint_loss_avg': '9.6225', 'main_loss_avg': '9.6225', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 6, 'HIT@5': '0.0059', 'NDCG@5': '0.0038', 'HIT@10': '0.0106', 'NDCG@10': '0.0053', 'HIT@20': '0.0185', 'NDCG@20': '0.0073'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 7, 'joint_loss_avg': '9.5577', 'main_loss_avg': '9.5577', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 7, 'HIT@5': '0.0066', 'NDCG@5': '0.0043', 'HIT@10': '0.0112', 'NDCG@10': '0.0057', 'HIT@20': '0.0193', 'NDCG@20': '0.0077'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 8, 'joint_loss_avg': '9.4808', 'main_loss_avg': '9.4808', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 8, 'HIT@5': '0.0070', 'NDCG@5': '0.0045', 'HIT@10': '0.0120', 'NDCG@10': '0.0060', 'HIT@20': '0.0211', 'NDCG@20': '0.0083'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 9, 'joint_loss_avg': '9.4328', 'main_loss_avg': '9.4328', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 9, 'HIT@5': '0.0074', 'NDCG@5': '0.0048', 'HIT@10': '0.0130', 'NDCG@10': '0.0066', 'HIT@20': '0.0220', 'NDCG@20': '0.0089'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 10, 'joint_loss_avg': '9.3821', 'main_loss_avg': '9.3821', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 10, 'HIT@5': '0.0077', 'NDCG@5': '0.0049', 'HIT@10': '0.0133', 'NDCG@10': '0.0067', 'HIT@20': '0.0223', 'NDCG@20': '0.0090'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 11, 'joint_loss_avg': '9.3447', 'main_loss_avg': '9.3447', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 11, 'HIT@5': '0.0082', 'NDCG@5': '0.0053', 'HIT@10': '0.0138', 'NDCG@10': '0.0071', 'HIT@20': '0.0232', 'NDCG@20': '0.0094'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 12, 'joint_loss_avg': '9.3066', 'main_loss_avg': '9.3066', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 12, 'HIT@5': '0.0086', 'NDCG@5': '0.0054', 'HIT@10': '0.0142', 'NDCG@10': '0.0072', 'HIT@20': '0.0244', 'NDCG@20': '0.0098'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 13, 'joint_loss_avg': '9.2703', 'main_loss_avg': '9.2703', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 13, 'HIT@5': '0.0089', 'NDCG@5': '0.0057', 'HIT@10': '0.0147', 'NDCG@10': '0.0076', 'HIT@20': '0.0249', 'NDCG@20': '0.0102'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 14, 'joint_loss_avg': '9.2359', 'main_loss_avg': '9.2359', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 14, 'HIT@5': '0.0094', 'NDCG@5': '0.0061', 'HIT@10': '0.0157', 'NDCG@10': '0.0081', 'HIT@20': '0.0262', 'NDCG@20': '0.0107'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 15, 'joint_loss_avg': '9.1960', 'main_loss_avg': '9.1960', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 15, 'HIT@5': '0.0097', 'NDCG@5': '0.0062', 'HIT@10': '0.0163', 'NDCG@10': '0.0083', 'HIT@20': '0.0267', 'NDCG@20': '0.0109'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 16, 'joint_loss_avg': '9.1726', 'main_loss_avg': '9.1726', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 16, 'HIT@5': '0.0100', 'NDCG@5': '0.0063', 'HIT@10': '0.0168', 'NDCG@10': '0.0085', 'HIT@20': '0.0278', 'NDCG@20': '0.0113'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 17, 'joint_loss_avg': '9.1501', 'main_loss_avg': '9.1501', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 17, 'HIT@5': '0.0100', 'NDCG@5': '0.0064', 'HIT@10': '0.0172', 'NDCG@10': '0.0087', 'HIT@20': '0.0282', 'NDCG@20': '0.0115'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 18, 'joint_loss_avg': '9.1282', 'main_loss_avg': '9.1282', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 18, 'HIT@5': '0.0105', 'NDCG@5': '0.0067', 'HIT@10': '0.0176', 'NDCG@10': '0.0090', 'HIT@20': '0.0288', 'NDCG@20': '0.0119'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 19, 'joint_loss_avg': '9.1066', 'main_loss_avg': '9.1066', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 19, 'HIT@5': '0.0104', 'NDCG@5': '0.0067', 'HIT@10': '0.0178', 'NDCG@10': '0.0091', 'HIT@20': '0.0296', 'NDCG@20': '0.0120'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 20, 'joint_loss_avg': '9.0789', 'main_loss_avg': '9.0789', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 20, 'HIT@5': '0.0109', 'NDCG@5': '0.0070', 'HIT@10': '0.0180', 'NDCG@10': '0.0093', 'HIT@20': '0.0297', 'NDCG@20': '0.0122'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 21, 'joint_loss_avg': '9.0638', 'main_loss_avg': '9.0638', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 21, 'HIT@5': '0.0110', 'NDCG@5': '0.0071', 'HIT@10': '0.0184', 'NDCG@10': '0.0095', 'HIT@20': '0.0301', 'NDCG@20': '0.0124'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 22, 'joint_loss_avg': '9.0487', 'main_loss_avg': '9.0487', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 22, 'HIT@5': '0.0110', 'NDCG@5': '0.0072', 'HIT@10': '0.0184', 'NDCG@10': '0.0095', 'HIT@20': '0.0299', 'NDCG@20': '0.0124'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 23, 'joint_loss_avg': '9.0338', 'main_loss_avg': '9.0338', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 23, 'HIT@5': '0.0115', 'NDCG@5': '0.0074', 'HIT@10': '0.0189', 'NDCG@10': '0.0098', 'HIT@20': '0.0302', 'NDCG@20': '0.0126'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 24, 'joint_loss_avg': '9.0188', 'main_loss_avg': '9.0188', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 24, 'HIT@5': '0.0114', 'NDCG@5': '0.0074', 'HIT@10': '0.0187', 'NDCG@10': '0.0097', 'HIT@20': '0.0307', 'NDCG@20': '0.0127'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 25, 'joint_loss_avg': '8.9992', 'main_loss_avg': '8.9992', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 25, 'HIT@5': '0.0115', 'NDCG@5': '0.0074', 'HIT@10': '0.0194', 'NDCG@10': '0.0100', 'HIT@20': '0.0313', 'NDCG@20': '0.0130'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 26, 'joint_loss_avg': '8.9886', 'main_loss_avg': '8.9886', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 26, 'HIT@5': '0.0117', 'NDCG@5': '0.0076', 'HIT@10': '0.0195', 'NDCG@10': '0.0101', 'HIT@20': '0.0310', 'NDCG@20': '0.0130'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 27, 'joint_loss_avg': '8.9783', 'main_loss_avg': '8.9783', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 27, 'HIT@5': '0.0119', 'NDCG@5': '0.0077', 'HIT@10': '0.0197', 'NDCG@10': '0.0102', 'HIT@20': '0.0311', 'NDCG@20': '0.0131'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 28, 'joint_loss_avg': '8.9681', 'main_loss_avg': '8.9681', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 28, 'HIT@5': '0.0120', 'NDCG@5': '0.0078', 'HIT@10': '0.0199', 'NDCG@10': '0.0103', 'HIT@20': '0.0314', 'NDCG@20': '0.0132'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 29, 'joint_loss_avg': '8.9578', 'main_loss_avg': '8.9578', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 29, 'HIT@5': '0.0122', 'NDCG@5': '0.0078', 'HIT@10': '0.0199', 'NDCG@10': '0.0103', 'HIT@20': '0.0314', 'NDCG@20': '0.0132'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 30, 'joint_loss_avg': '8.9436', 'main_loss_avg': '8.9436', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 30, 'HIT@5': '0.0121', 'NDCG@5': '0.0078', 'HIT@10': '0.0201', 'NDCG@10': '0.0104', 'HIT@20': '0.0316', 'NDCG@20': '0.0133'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 31, 'joint_loss_avg': '8.9364', 'main_loss_avg': '8.9364', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 31, 'HIT@5': '0.0122', 'NDCG@5': '0.0078', 'HIT@10': '0.0203', 'NDCG@10': '0.0104', 'HIT@20': '0.0320', 'NDCG@20': '0.0134'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 32, 'joint_loss_avg': '8.9296', 'main_loss_avg': '8.9296', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 32, 'HIT@5': '0.0124', 'NDCG@5': '0.0080', 'HIT@10': '0.0203', 'NDCG@10': '0.0105', 'HIT@20': '0.0320', 'NDCG@20': '0.0134'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 33, 'joint_loss_avg': '8.9230', 'main_loss_avg': '8.9230', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 33, 'HIT@5': '0.0124', 'NDCG@5': '0.0080', 'HIT@10': '0.0204', 'NDCG@10': '0.0106', 'HIT@20': '0.0322', 'NDCG@20': '0.0136'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 34, 'joint_loss_avg': '8.9164', 'main_loss_avg': '8.9164', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 34, 'HIT@5': '0.0126', 'NDCG@5': '0.0082', 'HIT@10': '0.0204', 'NDCG@10': '0.0107', 'HIT@20': '0.0324', 'NDCG@20': '0.0137'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 35, 'joint_loss_avg': '8.9070', 'main_loss_avg': '8.9070', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 35, 'HIT@5': '0.0126', 'NDCG@5': '0.0082', 'HIT@10': '0.0205', 'NDCG@10': '0.0107', 'HIT@20': '0.0324', 'NDCG@20': '0.0137'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 36, 'joint_loss_avg': '8.9022', 'main_loss_avg': '8.9022', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 36, 'HIT@5': '0.0127', 'NDCG@5': '0.0083', 'HIT@10': '0.0205', 'NDCG@10': '0.0108', 'HIT@20': '0.0324', 'NDCG@20': '0.0138'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 37, 'joint_loss_avg': '8.8974', 'main_loss_avg': '8.8974', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 37, 'HIT@5': '0.0126', 'NDCG@5': '0.0083', 'HIT@10': '0.0207', 'NDCG@10': '0.0108', 'HIT@20': '0.0324', 'NDCG@20': '0.0138'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 38, 'joint_loss_avg': '8.8925', 'main_loss_avg': '8.8925', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 38, 'HIT@5': '0.0127', 'NDCG@5': '0.0083', 'HIT@10': '0.0206', 'NDCG@10': '0.0109', 'HIT@20': '0.0324', 'NDCG@20': '0.0138'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 39, 'joint_loss_avg': '8.8876', 'main_loss_avg': '8.8876', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 39, 'HIT@5': '0.0126', 'NDCG@5': '0.0083', 'HIT@10': '0.0207', 'NDCG@10': '0.0109', 'HIT@20': '0.0325', 'NDCG@20': '0.0139'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 40, 'joint_loss_avg': '8.8805', 'main_loss_avg': '8.8805', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 40, 'HIT@5': '0.0126', 'NDCG@5': '0.0083', 'HIT@10': '0.0208', 'NDCG@10': '0.0109', 'HIT@20': '0.0326', 'NDCG@20': '0.0139'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 41, 'joint_loss_avg': '8.8775', 'main_loss_avg': '8.8775', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 41, 'HIT@5': '0.0128', 'NDCG@5': '0.0084', 'HIT@10': '0.0209', 'NDCG@10': '0.0110', 'HIT@20': '0.0327', 'NDCG@20': '0.0139'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 42, 'joint_loss_avg': '8.8740', 'main_loss_avg': '8.8740', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 42, 'HIT@5': '0.0129', 'NDCG@5': '0.0084', 'HIT@10': '0.0209', 'NDCG@10': '0.0110', 'HIT@20': '0.0327', 'NDCG@20': '0.0140'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 43, 'joint_loss_avg': '8.8703', 'main_loss_avg': '8.8703', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 43, 'HIT@5': '0.0128', 'NDCG@5': '0.0084', 'HIT@10': '0.0210', 'NDCG@10': '0.0110', 'HIT@20': '0.0330', 'NDCG@20': '0.0140'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 44, 'joint_loss_avg': '8.8669', 'main_loss_avg': '8.8669', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 44, 'HIT@5': '0.0129', 'NDCG@5': '0.0085', 'HIT@10': '0.0209', 'NDCG@10': '0.0110', 'HIT@20': '0.0330', 'NDCG@20': '0.0141'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 45, 'joint_loss_avg': '8.8620', 'main_loss_avg': '8.8620', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 45, 'HIT@5': '0.0129', 'NDCG@5': '0.0085', 'HIT@10': '0.0209', 'NDCG@10': '0.0111', 'HIT@20': '0.0330', 'NDCG@20': '0.0141'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 46, 'joint_loss_avg': '8.8594', 'main_loss_avg': '8.8594', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 46, 'HIT@5': '0.0129', 'NDCG@5': '0.0085', 'HIT@10': '0.0209', 'NDCG@10': '0.0111', 'HIT@20': '0.0330', 'NDCG@20': '0.0141'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 47, 'joint_loss_avg': '8.8570', 'main_loss_avg': '8.8570', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 47, 'HIT@5': '0.0129', 'NDCG@5': '0.0085', 'HIT@10': '0.0211', 'NDCG@10': '0.0111', 'HIT@20': '0.0330', 'NDCG@20': '0.0141'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 48, 'joint_loss_avg': '8.8545', 'main_loss_avg': '8.8545', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 48, 'HIT@5': '0.0130', 'NDCG@5': '0.0086', 'HIT@10': '0.0211', 'NDCG@10': '0.0111', 'HIT@20': '0.0331', 'NDCG@20': '0.0141'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 49, 'joint_loss_avg': '8.8521', 'main_loss_avg': '8.8521', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 49, 'HIT@5': '0.0130', 'NDCG@5': '0.0085', 'HIT@10': '0.0211', 'NDCG@10': '0.0111', 'HIT@20': '0.0333', 'NDCG@20': '0.0142'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 50, 'joint_loss_avg': '8.8487', 'main_loss_avg': '8.8487', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 50, 'HIT@5': '0.0130', 'NDCG@5': '0.0086', 'HIT@10': '0.0211', 'NDCG@10': '0.0112', 'HIT@20': '0.0331', 'NDCG@20': '0.0142'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 51, 'joint_loss_avg': '8.8469', 'main_loss_avg': '8.8469', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 51, 'HIT@5': '0.0130', 'NDCG@5': '0.0086', 'HIT@10': '0.0212', 'NDCG@10': '0.0112', 'HIT@20': '0.0331', 'NDCG@20': '0.0142'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 52, 'joint_loss_avg': '8.8452', 'main_loss_avg': '8.8452', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 52, 'HIT@5': '0.0130', 'NDCG@5': '0.0086', 'HIT@10': '0.0211', 'NDCG@10': '0.0112', 'HIT@20': '0.0331', 'NDCG@20': '0.0142'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 53, 'joint_loss_avg': '8.8435', 'main_loss_avg': '8.8435', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 53, 'HIT@5': '0.0130', 'NDCG@5': '0.0086', 'HIT@10': '0.0211', 'NDCG@10': '0.0112', 'HIT@20': '0.0331', 'NDCG@20': '0.0142'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 54, 'joint_loss_avg': '8.8417', 'main_loss_avg': '8.8417', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 54, 'HIT@5': '0.0130', 'NDCG@5': '0.0086', 'HIT@10': '0.0211', 'NDCG@10': '0.0112', 'HIT@20': '0.0332', 'NDCG@20': '0.0142'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 55, 'joint_loss_avg': '8.8392', 'main_loss_avg': '8.8392', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 55, 'HIT@5': '0.0130', 'NDCG@5': '0.0086', 'HIT@10': '0.0211', 'NDCG@10': '0.0112', 'HIT@20': '0.0333', 'NDCG@20': '0.0143'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 56, 'joint_loss_avg': '8.8380', 'main_loss_avg': '8.8380', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 56, 'HIT@5': '0.0131', 'NDCG@5': '0.0087', 'HIT@10': '0.0213', 'NDCG@10': '0.0113', 'HIT@20': '0.0332', 'NDCG@20': '0.0143'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 57, 'joint_loss_avg': '8.8368', 'main_loss_avg': '8.8368', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 57, 'HIT@5': '0.0131', 'NDCG@5': '0.0086', 'HIT@10': '0.0212', 'NDCG@10': '0.0112', 'HIT@20': '0.0332', 'NDCG@20': '0.0143'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 58, 'joint_loss_avg': '8.8355', 'main_loss_avg': '8.8355', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 58, 'HIT@5': '0.0131', 'NDCG@5': '0.0087', 'HIT@10': '0.0212', 'NDCG@10': '0.0112', 'HIT@20': '0.0333', 'NDCG@20': '0.0143'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 59, 'joint_loss_avg': '8.8343', 'main_loss_avg': '8.8343', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 59, 'HIT@5': '0.0131', 'NDCG@5': '0.0087', 'HIT@10': '0.0212', 'NDCG@10': '0.0112', 'HIT@20': '0.0332', 'NDCG@20': '0.0143'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 60, 'joint_loss_avg': '8.8325', 'main_loss_avg': '8.8325', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 60, 'HIT@5': '0.0132', 'NDCG@5': '0.0087', 'HIT@10': '0.0211', 'NDCG@10': '0.0112', 'HIT@20': '0.0332', 'NDCG@20': '0.0143'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 61, 'joint_loss_avg': '8.8317', 'main_loss_avg': '8.8317', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 61, 'HIT@5': '0.0132', 'NDCG@5': '0.0087', 'HIT@10': '0.0213', 'NDCG@10': '0.0113', 'HIT@20': '0.0332', 'NDCG@20': '0.0143'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 62, 'joint_loss_avg': '8.8309', 'main_loss_avg': '8.8309', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 62, 'HIT@5': '0.0132', 'NDCG@5': '0.0087', 'HIT@10': '0.0212', 'NDCG@10': '0.0113', 'HIT@20': '0.0331', 'NDCG@20': '0.0143'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 63, 'joint_loss_avg': '8.8300', 'main_loss_avg': '8.8300', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 63, 'HIT@5': '0.0132', 'NDCG@5': '0.0087', 'HIT@10': '0.0212', 'NDCG@10': '0.0113', 'HIT@20': '0.0332', 'NDCG@20': '0.0143'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 64, 'joint_loss_avg': '8.8291', 'main_loss_avg': '8.8291', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 64, 'HIT@5': '0.0132', 'NDCG@5': '0.0087', 'HIT@10': '0.0211', 'NDCG@10': '0.0112', 'HIT@20': '0.0333', 'NDCG@20': '0.0143'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 65, 'joint_loss_avg': '8.8279', 'main_loss_avg': '8.8279', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 65, 'HIT@5': '0.0132', 'NDCG@5': '0.0087', 'HIT@10': '0.0211', 'NDCG@10': '0.0112', 'HIT@20': '0.0331', 'NDCG@20': '0.0143'}
+n_sample-[20, 20]-hidden_size-64
+{'epoch': 66, 'joint_loss_avg': '8.8273', 'main_loss_avg': '8.8273', 'gcl_loss_avg': '0.0000', 'mmd_loss_avg': '0.0000'}
+{'Epoch': 66, 'HIT@5': '0.0132', 'NDCG@5': '0.0087', 'HIT@10': '0.0212', 'NDCG@10': '0.0113', 'HIT@20': '0.0332', 'NDCG@20': '0.0143'}
+{'Epoch': 0, 'HIT@5': '0.0094', 'NDCG@5': '0.0062', 'HIT@10': '0.0150', 'NDCG@10': '0.0079', 'HIT@20': '0.0243', 'NDCG@20': '0.0103'}
+GRU4Rec-home-[20, 20]
+{'Epoch': 0, 'HIT@5': '0.0094', 'NDCG@5': '0.0062', 'HIT@10': '0.0150', 'NDCG@10': '0.0079', 'HIT@20': '0.0243', 'NDCG@20': '0.0103'}
